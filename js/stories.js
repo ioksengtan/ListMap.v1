@@ -1,5 +1,7 @@
-var appUrl = 'https://script.google.com/macros/s/AKfycbwQVByOK0a3hkx5DWh0BMA9QKgWnAZuHemUw9NWkA/exec';
-var sheetsUrl = 'https://docs.google.com/spreadsheets/d/16CGCzPc9QMw_werSUgrvps4khWn3ccuuFquKFLP5g8Y/edit#gid=960765453'; //$('#sheetsUrl'),
+//var appUrl = 'https://script.google.com/macros/s/AKfycbwQVByOK0a3hkx5DWh0BMA9QKgWnAZuHemUw9NWkA/exec';
+var appUrl = 'https://script.google.com/macros/s/AKfycby-gL9w_PIzt4TDnqfpErNP1YTck93p4j7z1FTpt52bCkryg5Iu/exec';
+//var sheetsUrl = 'https://docs.google.com/spreadsheets/d/16CGCzPc9QMw_werSUgrvps4khWn3ccuuFquKFLP5g8Y/edit#gid=960765453'; //$('#sheetsUrl'),
+var sheetsUrl = 'https://docs.google.com/spreadsheets/d/1GNvkC8t3xua_ibN2GnnXJi-MXasuX5SXb4y1G6idFSc/edit#gid=1023127248';
 //var appUrl = 'https://script.google.com/macros/s/AKfycbxGHZlc66cCVD0I5vemPkuD8xaN9HO--4shiGMpcnGB9vHEp9s/exec';
 //var sheetsUrl = 'https://docs.google.com/spreadsheets/d/16CGCzPc9QMw_werSUgrvps4khWn3ccuuFquKFLP5g8Y/edit#gid=960765453'; //$('#sheetsUrl'),
 
